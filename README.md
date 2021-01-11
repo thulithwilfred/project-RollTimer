@@ -1,2 +1,2 @@
 # project-RollTimer
-Start up design for a RollTimer  - Embedded Design
+Design for a RollTimer  - Embedded Design
